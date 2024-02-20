@@ -1,0 +1,16 @@
+.grid{
+    width: 490px;
+    height: 360px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 120px;
+    width: 140px;
+    border: 2px solid black;
+}
+
+.mole{
+    background: url('../Assests/images1.png') center/contain no-repeat;
+}
